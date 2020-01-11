@@ -9,4 +9,4 @@ Algorithm:  ULMFiT
 
 Tested with fastai v1.028
 
-The notebook presents part of the calculations for a paper "Automated aviation occurrences categorization" submited to [ICMT 2019](http://www.icmt.cz/) 
+The notebook presents part of the calculations for a paper "Automated aviation occurrences categorization" (https://ieeexplore.ieee.org/document/8870055) develped initially with an earlier version of fastai)
