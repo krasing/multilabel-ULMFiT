@@ -10,3 +10,5 @@ Algorithm:  ULMFiT
 Tested with fastai v1.028
 
 The notebook presents part of the calculations for a paper "Automated aviation occurrences categorization" (https://ieeexplore.ieee.org/document/8870055) develped initially with an earlier version of fastai)
+
+UPDATE for fastai v2
